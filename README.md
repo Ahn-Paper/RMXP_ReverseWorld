@@ -17,11 +17,28 @@ game.exe를 통해 실행하며, game.rxproj를 통해 게임 내용을 확인, 
 
 알 수 없는 이유로 고성(古城)에 갇힌 여섯 학생이 성을 탈출하는 이야기를 담고 있습니다.
 
+![02](https://github.com/Ahn-Paper/RMXP_ReverseWorld/assets/173880966/4fd43830-be48-41b9-ba2b-533bc6bfe1a1)
+
+![03](https://github.com/Ahn-Paper/RMXP_ReverseWorld/assets/173880966/919c23f0-1915-4c7c-99d2-cd6ffb1b7702)
+
+
 게임은 하나의 거대한 스토리 흐름 속에서 여섯 캐릭터가 각자의 이야기를 진행하는 군상극 형태를 띄고 있습니다.
 
-이때 여섯 캐릭터는 각자 독창적인 퍼즐 테마를 갖고 있으며, 플레이어는 여섯 캐릭터를 순차적으로 조작하며 해당 퍼즐을 진행하게 됩니다.
+이때 여섯 캐릭터는 각자 독창적인 기믹을 갖고 있으며, 플레이어는 여섯 캐릭터를 순차적으로 조작하며 해당 퍼즐을 진행하게 됩니다.
+
+![04](https://github.com/Ahn-Paper/RMXP_ReverseWorld/assets/173880966/d6693849-759a-4e16-839d-d70fb2a2b266)
+
+<제한시간 내에 미로를 돌파해야 하는 기믹>
 
 
+![05](https://github.com/Ahn-Paper/RMXP_ReverseWorld/assets/173880966/34212db3-09a5-4eaf-b9e1-87cdde26420e)
+
+<주어진 정신력을 관리하며 각종 퍼즐을 수행해야 하는 기믹>
+
+
+![10](https://github.com/Ahn-Paper/RMXP_ReverseWorld/assets/173880966/6d2ad41a-7611-4a12-b26e-338589279246)
+
+<NPC 시선을 피해 잠입해야 하는 기믹>
 
 ---
 # Download
